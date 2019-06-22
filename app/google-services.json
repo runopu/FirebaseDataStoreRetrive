@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1051549296799",
+    "firebase_url": "https://fir-datastoreretrive.firebaseio.com",
+    "project_id": "fir-datastoreretrive",
+    "storage_bucket": "fir-datastoreretrive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051549296799:android:76b8b3c39f02cc5a",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatastoreretrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051549296799-sp41ghjasamssc00dt3g1jnk1p6gf4cv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasedatastoreretrive",
+            "certificate_hash": "856e8d4ff1bf80f21e08c3ab9226945c1a543af6"
+          }
+        },
+        {
+          "client_id": "1051549296799-7enhj62po1p62d39jmucc5j2e5urki3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ZXIZ7WBEEhPq7tpA6onrSQoTCAu37Zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051549296799-7enhj62po1p62d39jmucc5j2e5urki3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
